@@ -26,13 +26,15 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/szj2ys/sqling">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=szj2ys&repo=sqling&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img src="https://img.shields.io/pypi/dm/sqling?color=blue" alt="pypi downloads"/>
 </a>
-<img src="https://img.shields.io/pypi/dm/sqling?color=blue" alt="pypi downloads"/>
+
 
 <a href="https://github.com/szj2ys/funlp">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=szj2ys&repo=funlp&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img src="https://img.shields.io/pypi/dm/funlp?color=blue" alt="pypi downloads"/>
 </a>
-<img src="https://img.shields.io/pypi/dm/funlp?color=blue" alt="pypi downloads"/>
+
 
 
 
