@@ -37,4 +37,7 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=szj2ys&repo=stopwds&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
+<a href="https://github.com/szj2ys/critical_investing">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=szj2ys&repo=critical_investing&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
 
