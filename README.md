@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-### 🤡 Hi there，I'm SZJ 👋, I am focusing on NLP and other Algorithms, and I create useful tools which you are waiting for, enjoy 😉
+### 🤡 I'm focusing on NLP and other Algorithms, and I create useful tools which you are waiting for, enjoy 😉
 
 
 
