@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 ### 🤡 I'm focusing on NLP and other Algorithms, and I create useful tools which you are waiting for, enjoy 😉
 
 
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/szj2ys/count.svg"/>
+</p>
+
 
 ### Github State
 
