@@ -15,6 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="60px">
+
+
 
 ![HelloNLP's GitHub stats](https://github-readme-stats.vercel.app/api?username=szj2ys&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szj2ys&show_icons=true&theme=dark)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
