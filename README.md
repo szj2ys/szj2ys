@@ -19,7 +19,13 @@ Here are some ideas to get you started:
 
 
 
-![HelloNLP's GitHub stats](https://github-readme-stats.vercel.app/api?username=szj2ys&show_icons=true&theme=dark)
+- 👯 My Blog : https://www.songzhijun.com
+- 📫 How to reach me: szj2ys@qq.com
+
+
+
+
+![szj2ys's GitHub stats](https://github-readme-stats.vercel.app/api?username=szj2ys&show_icons=true&theme=dark)
 
 
 
