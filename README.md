@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-- 👯 My Blog : https://www.songzhijun.com
+- 👯 My Blog : https://www.songzj.com
 - 📫 How to reach me: szj2ys@qq.com
 
 
