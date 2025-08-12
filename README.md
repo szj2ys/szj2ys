@@ -1,22 +1,3 @@
+Passionate coder crafting innovative solutions with clean code and creative thinking. Always exploring new technologies and building meaningful projects.
 
-
-Love vibe coding and create something interesting.
-
-- 📫 How to reach me: szj2ys@163.com or szj1810701743@gmail.com
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+📧 Let's connect: szj2ys@163.com | szj1810701743@gmail.com
