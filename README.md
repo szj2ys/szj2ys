@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 
 
-- 👯 My Blog : https://www.songzj.com
-- 📫 How to reach me: szj2ys@qq.com
+- 📫 How to reach me: szj2ys@163.com or szj1810701743@gmail.com
+  
 
 
 
