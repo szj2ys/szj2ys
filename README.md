@@ -15,55 +15,51 @@
 
 ---
 
-## 🚀 What I'm building
+## What I'm building
 
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/szj2ys/arb">⚡ arb</a></h3>
+      <h3><a href="https://github.com/szj2ys/arb">arb</a></h3>
       <p>GPU-accelerated terminal emulator</p>
       <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
       <img src="https://img.shields.io/badge/GPU-76B900?style=flat-square&logo=nvidia&logoColor=white" />
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/szj2ys/OpenLovart">🎨 OpenLovart</a></h3>
+      <h3><a href="https://github.com/szj2ys/codex-responses-adapter">codex-responses-adapter</a></h3>
+      <p>Rust proxy — bridge Codex CLI to any OpenAI-compatible Chat Completions API</p>
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/szj2ys/OpenLovart">OpenLovart</a></h3>
       <p>AI design platform — one sentence to editable design</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
     </td>
-  </tr>
-  <tr>
     <td width="50%">
-      <h3><a href="https://github.com/szj2ys/yiya">🗣️ yiya</a></h3>
+      <h3><a href="https://github.com/szj2ys/yiya">yiya</a></h3>
       <p>Language learning app with audio, XP, and leaderboards</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
     </td>
-    <td width="50%">
-      <h3><a href="https://github.com/szj2ys/commerce">🏪 小商帮</a></h3>
-      <p>AI marketing tools for small merchants</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-    </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/szj2ys/weavai">📊 weavai</a></h3>
-      <p>One-click flowchart generation with AI</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/szj2ys/tripmode">📱 tripmode</a></h3>
+      <h3><a href="https://github.com/szj2ys/tripmode">tripmode</a></h3>
       <p>Native macOS/iOS app</p>
       <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
       <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
+    </td>
+    <td width="50%">
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -77,7 +73,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -99,11 +95,11 @@
 
 ---
 
-## 🎯 Previously
+## Previously
 
 Quant trading, NLP, web scraping, and a bunch of Python libraries — most now archived.
 
-## 📫 Get in touch
+## Get in touch
 
 <a href="mailto:szj1810701743@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -113,6 +109,6 @@ Quant trading, NLP, web scraping, and a bunch of Python libraries — most now a
 
 <div align="center">
 
-  <i>"Ship fast, learn faster"</i> 🚀
+  <i>"Ship fast, learn faster"</i>
 
 </div>
