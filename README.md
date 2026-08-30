@@ -53,6 +53,10 @@
       <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
     </td>
     <td width="50%">
+      <h3><a href="https://imgmov.com">imgmov.com</a></h3>
+      <p>AI video and image creation platform with canvas editing, timeline editing, and asset management</p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white" />
     </td>
   </tr>
 </table>
